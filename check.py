@@ -3,7 +3,7 @@ import hashlib
 import json
 import os
 
-TOKEN = "这里填你的PushPlus Token"
+TOKEN = "fc8622dff3434e16aa69ccab198bfb6e"
 URL = "https://m.ke.com/chuzu/zufang/rt200600000001/"
 STATE_FILE = "state.json"
 
